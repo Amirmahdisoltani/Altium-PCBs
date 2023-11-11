@@ -7,7 +7,7 @@ Currently, the following components exist in the repository:
 - STM32F030K6T6-CH340 header board
 
 <div align="center">
-<img src="MAX98357-I2S-Module/MAX98375.JPG" width="90%">
+<img src="MAX98357-I2S-Module/MAX98357.JPG" width="90%">
 <p>MAX98357-I2S-Module</p>
 </div>
 
